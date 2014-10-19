@@ -2707,10 +2707,12 @@ var Reveal = (function(){
 				case 72: case 37: navigateLeft(); break;
 				// l, right
 				case 76: case 39: navigateRight(); break;
+                // modified up and down keys to behave like left and right
+                // because my remote doesn't have left and right buttons
 				// k, up
-				case 75: case 38: navigateUp(); break;
+				case 75: case 38: navigateLeft(); break;
 				// j, down
-				case 74: case 40: navigateDown(); break;
+				case 74: case 40: navigateRight(); break;
 				// home
 				case 36: slide( 0 ); break;
 				// end
