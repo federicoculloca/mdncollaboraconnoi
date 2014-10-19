@@ -1,0 +1,66 @@
+- presentazione di mozilla developer network e perche' collaborare con noi
+- il web, informazioni interconnesse, una fonte enorme di informazioni
+- ma la maggior parte degli utenti sono solo consumatori 
+- il bello del web e' che tutti possono creare
+- c'e' la necessita' di avere un punto di riferimento per l'open web che sia completo, corretto e accurato
+- la risposta e' mdn!
+    - mdn e' il sito ufficiale di mozilla per la documentazione di sviluppo per l'open web e i progetti mozilla
+
+- un po' di storia
+- il progetto (mdc - mozilla developer center) nasce nel 2005 per opera di Deb Richardson
+    - utilizza il contenuto di DevEdge, in licenza da AOL
+    - pian piano vengono integrati i contenuti di vari siti di mozilla
+- dal 2006 il progetto e' coordinato da eric shepherd (sheppy)
+- nel 2010 il sito cambia nome e diventa finalmente il mozilla developer network
+- nel 2013 viene presentata la nuova veste grafica (screenshot da https://wiki.mozilla.org/MDN/Projects/Development/Redesign)
+
+- cosa c'e' in mdn?
+- reference (html, css, js...)
+- guide
+- tutorial per chi comincia da zero (lavori in corso)
+- documentazione delle WebAPI
+- documentazione sugli strumenti di sviluppo
+- demo!
+
+- mdn e' un wiki: collabora!
+- cosa puoi fare?
+- scrivere nuovi articoli
+- revisioni tecniche
+- revisioni editoriali
+- piccole correzioni ortografiche
+- tag!
+- localizzazione
+- esempi di codice
+- demo
+
+- perche' collaborare?
+- per gli altri
+- per l'open web
+- per te stesso (scrivere documentazione aiuta ad imparare)
+
+- come collaborare?
+- crea un account con persona (login via github coming soon)
+
+- modifica una pagina
+- visita la pagina che vuoi modificare e clicca Edit
+- avrai a disposizione un rich editor, semplice ma potente! WYSIWYG!
+- scrivi cosa hai fatto
+- se necessario chiedi una revisione
+- salva!
+
+- crea una sottopagina
+- visita la pagina
+- clicca sull'ingranaggio
+- clicca su New sub-page
+- da qui in poi gia' sai come si fa ;)
+
+- traduci
+- clicca su Languages
+- poi su Add a translation
+- scegli la lingua
+- a sinistra l'originale, a destra la tua traduzione
+
+- chiedi aiuto
+- apri un bug su bugzilla
+- chatta su #mdn 
+- scrivi a dev-mdc
